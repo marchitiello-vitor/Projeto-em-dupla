@@ -1,0 +1,16 @@
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\projeto em duplas.exe
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\projeto em duplas.deps.json
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\projeto em duplas.runtimeconfig.json
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\projeto em duplas.runtimeconfig.dev.json
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\projeto em duplas.dll
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\ref\projeto em duplas.dll
+C:\Users\Marchitiello\Desktop\projeto em dupla\bin\Debug\net5.0\projeto em duplas.pdb
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.csprojAssemblyReference.cache
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.AssemblyInfoInputs.cache
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.AssemblyInfo.cs
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.csproj.CoreCompileInputs.cache
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.dll
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\ref\projeto em duplas.dll
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.pdb
+C:\Users\Marchitiello\Desktop\projeto em dupla\obj\Debug\net5.0\projeto em duplas.genruntimeconfig.cache
